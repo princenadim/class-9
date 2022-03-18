@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#row{
+    width: 100%;
+    float: left;
+    
+}
+.container{
+width: 80%;
+margin: auto;
+background-color: aqua;
+}
+.logo-part{
+width: 25%;
+background-color:blue;
+float: left;
+}
+.menu-part{
+width: 40%;
+background-color: black;
+float: left;
+}
+.menu-part ul{
+
+}
+.menu-part li{
+
+}
+.menu-part a{
+
+}
+.search-part{
+width: 30%;
+background-color: green;
+float: left;
+}
+#hero{
+    width: 100%;
+    float: left;
+}
+.hero-writing-part{
+width: 50%;
+float: left;
+}
+.hero-img-part{
+}
+.hero-img-part img{
+
+}
+
